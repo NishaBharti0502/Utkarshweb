@@ -1,0 +1,24 @@
+@import url('https://i0.wp.com/www.korvia.com/wp-content/uploads/2015/11/korvia-image-background-tnkr-signup-3.jpg?ssl=1');
+.form-div{
+margin:50px auto 50px;
+padding: 25px 15px 10px 15px;
+border: 1px solid #80ced7;
+font-size: 1.1em;
+font-family: 'lora',serif ;
+border-radius: 5px;
+color:white;
+}
+.form-control:focus{
+box-shadow: none;
+}
+form p{
+font-size: .89em;
+}
+.form-div-login{
+margin-top:100px;}
+.errors{color:lime;}
+body {
+background: 
+url(https://i0.wp.com/www.korvia.com/wp-content/uploads/2015/11/korvia-image-background-tnkr-signup-3.jpg?ssl=1) no-repeat ;
+background-size:cover;
+}
